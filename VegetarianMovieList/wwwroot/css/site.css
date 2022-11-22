@@ -1,0 +1,30 @@
+html {
+    font-size: 22px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    background-color: lightskyblue;
+    color: midnightblue;
+    margin-bottom: 60px;
+    font-size: 22px;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bolder;
+}
+
+.table 
+{
+   color: darkviolet;
+   font-weight: bolder;
+   font-size: 22px;
+}
